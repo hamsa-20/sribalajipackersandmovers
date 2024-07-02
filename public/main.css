@@ -1,0 +1,75 @@
+
+
+
+
+.carousel_img{
+    width: 50em; 
+    height: 30em; 
+    border-radius: 7%; 
+    object-fit: cover; 
+}
+@media (max-width: 600px) {
+    .carousel_img {
+        
+        height: 15em;
+        width: 25rem;
+    }
+}
+.accordion-collapse {
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            text-align: left;
+            border: none;
+            outline: none;
+            transition: background-color 0.4s ease;
+}
+.bi{
+    
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+.hi{
+    margin-right:4rem ;
+}
+svg{
+    background: none;
+    background-color: white;
+}
+.servicesh1{
+    margin: 1rem;
+}
+.faq{
+    margin: 3rem;
+}
+.mb-3{
+    text-align: start;
+}
+div.scroll-container {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+  
+  div.scroll-container img {
+    padding: 0.1rem;
+   
+  }
+  .scroll-container{
+    margin: 4rem;
+  }
+  .imgg{
+    height: 30rem;
+    width: 40rem;
+  }
+  @media(max-width: 600px){
+
+      .section-3img{
+        height: 15em;
+        width: 25rem;
+      }
+  }
